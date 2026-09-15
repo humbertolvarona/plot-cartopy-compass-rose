@@ -176,5 +176,5 @@ This document and the associated code are distributed under the Creative Commons
 
 **Author:** HL Varona
 
-[**Profile:**](https://scholar.google.com/citations?user=QOQCC6AAAAAJ)
+[**Profile:** https://scholar.google.com/citations?user=QOQCC6AAAAAJ](https://scholar.google.com/citations?user=QOQCC6AAAAAJ)
 
